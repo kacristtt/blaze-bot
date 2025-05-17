@@ -2,7 +2,7 @@ import time
 import requests
 from playwright.sync_api import sync_playwright
 
-TELEGRAM_TOKEN = "8047337853:AAHgB6WDTWXGgG0n2oQa_ZOPA0brfL9THhE"
+TELEGRAM_TOKEN = "8047337853:AAGizHiBxQSrrUl8IQw-TX9Zjz86PcJGhlU"
 CHAT_ID = "6821521589"
 
 def enviar_alerta(mensagem):
